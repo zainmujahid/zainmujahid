@@ -1,4 +1,4 @@
-<h1 align="center">Hey Folks <img src="./assets/wave.gif" width="28px">, this is Zain</h1>
+<h1 align="center">Hey Folks <img src="./assets/wave.gif" width="28">, this is Zain</h1>
 
 <h5 align="center">I just love programming, and staring at the night sky :)</h5>
 
