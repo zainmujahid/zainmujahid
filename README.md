@@ -5,7 +5,7 @@
 <h6 align="center"><b>Python / Go / C++ / Django/ Flask / Vue.js / Node.js / Bootstrap / Selenium / Tensorflow / Keras / PyTorch</b></h6>
 
 
-<p align="justify"> My name is Zain and I'm currently studying Masters in Computer Science and Technology from NJUST, China. I take great care in the experience, architecture, and code quality of the things I build. I'm from Pakistan, living in Lahore.</p>
+<p align="justify"> My name is Zain and I'm currently studying Masters in Natural Language Processing from MBZUAI, UAE. I take great care in the experience, architecture, and code quality of the things I build. I'm from Pakistan, living in Abu Dhabi.</p>
 
 - 🔭 I’m currently working on projects from [prognos](https://prognoshealth.com/) 
 - 🌱 I’m currently learning everything xD
