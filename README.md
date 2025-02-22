@@ -5,9 +5,9 @@
 <h6 align="center"><b>Python / Go / C++ / Django/ Flask / Vue.js / Node.js / Bootstrap / Selenium / Tensorflow / Keras / PyTorch</b></h6>
 
 
-<p align="justify"> My name is Zain and I'm currently studying Masters in Natural Language Processing from <a href="https://mbzuai.ac.ae/" target="_blank">MBZUAI, UAE</a>. I take great care in the experience, architecture, and code quality of the things I build. I'm from Pakistan, living in Abu Dhabi.</p>
+<p align="justify"> My name is Zain, and I'm currently a PhD Fellow at <a href="https://www.aicentre.dk/" target="_blank">PCAI</a> and <a href="https://www.copenlu.com/" target="_blank">CopeNLU</a> group at the University of Copenhagen. I care greatly about the experience, architecture, and code quality of the things I build. I'm from Pakistan, living in Copenhagen.</p>
 
-- 🔭 I’m currently working on projects from [prognos](https://prognoshealth.com/) 
+- 🔭 I’m currently working on projects related to factual text generation in large language models 
 - 🌱 I’m currently learning everything xD
 - 💬 Ask me about python, vue.js
 - 📫 How to reach me: [Email](mailto:zainmujahid01@gmail.com) | [Linkedin](https://www.linkedin.com/in/zainmujahid/) | [Facebook](https://www.facebook.com/zmujahid/) 
